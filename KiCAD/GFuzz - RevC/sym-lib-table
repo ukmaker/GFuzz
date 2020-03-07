@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name GFuzz-rescue)(type Legacy)(uri ${KIPRJMOD}/GFuzz-rescue.lib)(options "")(descr ""))
-)
