@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name UKMaker)(type KiCad)(uri C:/Users/User/Desktop/EDA/Kicad/UKMaker.pretty)(options "")(descr ""))
+  (lib (name "GFuzz - RevB")(type KiCad)(uri "C:/Users/User/Desktop/EDA/Kicad/UKMaker.pretty/GFuzz - RevB.pretty")(options "")(descr ""))
+)
